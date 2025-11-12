@@ -101,7 +101,8 @@ The interactive Excel dashboard includes:
 
 
 ## Dashboard Screenshot
-<img width="936" height="639" alt="dashboard_excel" src="https://github.com/user-attachments/assets/3fdcf0ef-af71-4554-91f7-cb475509566f" />
+<img width="936" height="634" alt="dashboard_excel" src="https://github.com/user-attachments/assets/6cb5d363-926c-4953-b9ab-55ab8b904150" />
+
 
 
 
