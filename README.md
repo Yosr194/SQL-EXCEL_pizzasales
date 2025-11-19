@@ -104,6 +104,15 @@ The interactive Excel dashboard includes:
 <img width="936" height="634" alt="dashboard_excel" src="https://github.com/user-attachments/assets/6cb5d363-926c-4953-b9ab-55ab8b904150" />
 
 
+## 🙏 Acknowledgments
+
+This project was developed following the comprehensive YouTube tutorial from **"Data Tutorials"**.
+
+*Visit the Data Tutorials channel for more insightful data analytics content and tutorials.*
+
+---
+
+
 
 
 
